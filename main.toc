@@ -1,0 +1,6 @@
+\select@language {spanish}
+\contentsline {chapter}{Introducci\IeC {\'o}n}{2}
+\contentsline {chapter}{\numberline {1}Biograf\IeC {\'\i }a}{3}
+\contentsline {chapter}{\numberline {2}Discograf\IeC {\'\i }a}{9}
+\contentsline {chapter}{\numberline {3}Un momento dif\IeC {\'\i }cil}{12}
+\contentsline {chapter}{Bibliograf\IeC {\'\i }a}{14}
